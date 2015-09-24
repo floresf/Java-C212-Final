@@ -1,4 +1,4 @@
-# Java-C212-Final
-The Final Exam for my Java Class - Tetris. New shape implementation.
+# Java-Final
+<h3>Some of the code for the final. - Tetris. New shape implementation.</h3>
 
-Spring 2013 semester.
+<h4>Spring 2013 semester.</h4>
